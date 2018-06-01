@@ -1,15 +1,15 @@
 //
-//  Anchor_iOSTests.swift
-//  Anchor_iOSTests
+//  Anchor_Tests.swift
+//  Anchor_Tests
 //
 //  Created by JangDoRi on 2018. 6. 1..
 //  Copyright © 2018년 piano. All rights reserved.
 //
 
 import XCTest
-@testable import Anchor_iOS
+@testable import Anchor
 
-class Anchor_iOSTests: XCTestCase {
+class Anchor_Tests: XCTestCase {
     
     override func setUp() {
         super.setUp()
